@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\crud.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:crud.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\db.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:db.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\logic.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:logic.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\excel_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:excel_utils.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\models.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:models.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\resource_margin_backend.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{76D98BA7-A2C2-4C94-9CAF-DE4D63F95F77}|resource_margin_backend.pyproj|solutionrelative:resource_margin_backend.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAwwHwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-20T20:29:10.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "db.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\db.py",
+              "RelativeDocumentMoniker": "db.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\db.py",
+              "RelativeToolTip": "db.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-22T15:40:26.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "crud.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\crud.py",
+              "RelativeDocumentMoniker": "crud.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\crud.py",
+              "RelativeToolTip": "crud.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-21T17:06:56.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "models.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\models.py",
+              "RelativeDocumentMoniker": "models.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\models.py",
+              "RelativeToolTip": "models.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-21T16:30:30.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "excel_utils.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\excel_utils.py",
+              "RelativeDocumentMoniker": "excel_utils.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\excel_utils.py",
+              "RelativeToolTip": "excel_utils.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-20T20:29:49.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "logic.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\logic.py",
+              "RelativeDocumentMoniker": "logic.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\logic.py",
+              "RelativeToolTip": "logic.py",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-20T20:29:23.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "resource_margin_backend.py",
+              "DocumentMoniker": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\resource_margin_backend.py",
+              "RelativeDocumentMoniker": "resource_margin_backend.py",
+              "ToolTip": "C:\\Users\\Sahiti\\Desktop\\Projects\\resource_margin_backend\\resource_margin_backend.py",
+              "RelativeToolTip": "resource_margin_backend.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-08-20T19:45:57.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
