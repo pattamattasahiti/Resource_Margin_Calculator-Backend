@@ -58,11 +58,12 @@ class EmployeeInput(BaseModel):
     resource_type: str
     salary_p_a_inr: Optional[float] = 0
     overhead_inr: Optional[float] = 0
-    conversion_rate: Optional[float] = 0
+    conversion_rate: Optional[float] = 82
     billing_rate_usd_hr: Optional[float] = 0
     occupancy_rate: Optional[float] = 0
     billable_per_hour_usd: Optional[float] = 0
     overhead_usa_usd: Optional[float] = 0
+    billable_hrs: Optional[float] = 2080 
 
 def process_employee(employee: EmployeeInput):
     bonus_inr = calculate_bonus(employee.salary_p_a_inr)
